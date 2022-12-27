@@ -1,5 +1,5 @@
 #include <stdio.h>
-//計算電費
+//計算電費https://e-tutor.itsa.org.tw/e-Tutor/mod/programming/view.php?id=30795
 int main(){
     int inpt, temp, level;
     float summer = 0;
